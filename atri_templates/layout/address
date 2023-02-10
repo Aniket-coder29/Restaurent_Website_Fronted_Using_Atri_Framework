@@ -1,0 +1,233 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "777eaca3-9aa5-43ac-80ef-d147e5b37d68",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "color": "#8d8d8dff",
+          "width": "50%"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "777eaca3-9aa5-43ac-80ef-d147e5b37d68",
+    "refId": "c7e2b997-d818-491e-9ea4-c8f71ce53cc8"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "d1906e16-2e2a-43ef-8f2e-56c4b891d239",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "d1906e16-2e2a-43ef-8f2e-56c4b891d239",
+    "refId": "c7e2b997-d818-491e-9ea4-c8f71ce53cc8"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "7d46ce54-9889-46f8-adf4-b2f5a183df0d",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "",
+          "overflow": "visible",
+          "boxSizing": "content-box",
+          "backgroundClip": "content-box",
+          "WebkitBackgroundClip": "content-box"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "7d46ce54-9889-46f8-adf4-b2f5a183df0d",
+    "refId": "6b3fa1dd-021f-4044-95df-a019e0fc45d4"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "9cb05950-f9ae-46c8-90a8-c99d976342d1",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "childId": "9cb05950-f9ae-46c8-90a8-c99d976342d1",
+    "refId": "6b3fa1dd-021f-4044-95df-a019e0fc45d4"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "8826cf3c-580f-441b-9462-e1ac32bd2a0a",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "columnGap": "20px",
+          "width": "350px",
+          "alignItems": "center"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "childId": "8826cf3c-580f-441b-9462-e1ac32bd2a0a",
+    "refId": "71864ae2-2002-471c-98c7-3152aebe24aa"
+  },
+  {
+    "id": "cf78a1bc-b582-481c-8352-42db05e0c5ff",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "c7e2b997-d818-491e-9ea4-c8f71ce53cc8",
+    "childId": "cf78a1bc-b582-481c-8352-42db05e0c5ff"
+  },
+  {
+    "id": "0c5b44b6-4f8d-4f01-aedd-a75b1442855c",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "6b3fa1dd-021f-4044-95df-a019e0fc45d4",
+    "childId": "0c5b44b6-4f8d-4f01-aedd-a75b1442855c"
+  },
+  {
+    "id": "1179a8ef-8bee-4e6d-b1ae-92cfd92f7deb",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "71864ae2-2002-471c-98c7-3152aebe24aa",
+    "childId": "1179a8ef-8bee-4e6d-b1ae-92cfd92f7deb"
+  },
+  {
+    "id": "c7e2b997-d818-491e-9ea4-c8f71ce53cc8",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "71864ae2-2002-471c-98c7-3152aebe24aa",
+        "index": 2
+      },
+      "alias": "TextBox24"
+    }
+  },
+  {
+    "id": "6b3fa1dd-021f-4044-95df-a019e0fc45d4",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "71864ae2-2002-471c-98c7-3152aebe24aa",
+        "index": 1
+      },
+      "alias": "Image16"
+    }
+  },
+  {
+    "id": "71864ae2-2002-471c-98c7-3152aebe24aa",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex39"
+    }
+  }
+]
